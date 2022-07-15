@@ -11,4 +11,4 @@
 -->
 ## Let's Connect 🤝
 - Email: pranaysewatkar12@gmail.com
-- Twitter: [@SewatkarPranay](https://twitter.com/github.com/PranaySewatkar
+- Twitter: [@SewatkarPranay](https://twitter.com/github.com/PranaySewatkar)
