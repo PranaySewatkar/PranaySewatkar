@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I am Pranay Sewatkar
 
 <!--
 **PranaySewatkar/PranaySewatkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to make new friends and watch Marvel Movies
 -->
+## Let's Connect 🤝
+- Email: pranaysewatkar12@gmail.com
+- Twitter: [@SewatkarPranay](https://twitter.com/github.com/PranaySewatkar
