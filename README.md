@@ -5,7 +5,6 @@
 - 🔭 I’m currently learning DSA and Web development
 - 🌱 I’m currently learning CSS 
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 I’m looking for help with CSS, Javascript
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to make new friends and watch Marvel Movies
 -->
