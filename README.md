@@ -3,10 +3,9 @@
 
 
 - 🔭 I’m currently learning DSA and Web development
-- 🌱 I’m currently learning CSS 
+- 🌱 I’m currently learning HTML and CSS 
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to make new friends and watch Marvel Movies
 -->
 ## Let's Connect 🤝
 - Email: pranaysewatkar12@gmail.com
