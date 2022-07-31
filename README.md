@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 -->
 ## Let's Connect 🤝
-- Email: pranaysewatkar12@gmail.com
+- Email: Pranaysewatkar01@gmail.com
 - Twitter: [@SewatkarPranay](https://twitter.com/PranaySewatkar)
 
 
