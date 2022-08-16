@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently learning DSA and Web development
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 😄 Pronouns: He/Him
 -->
