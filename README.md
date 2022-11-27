@@ -3,9 +3,7 @@
 
 
 - 🔭 I’m currently learning DSA and Web development
-- 🌱 I’m currently learning javascript
-- 👯 I’m looking to collaborate on OpenSource Projects
--->
+- 🌱 I’m currently making HTML, CSS Projects
 ## Let's Connect 🤝
 - Email: pranaygithub01@gmail.com
 - Twitter: [@SewatkarPranay](https://twitter.com/PranaySewatkar)
