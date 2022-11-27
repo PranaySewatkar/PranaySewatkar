@@ -5,10 +5,9 @@
 - 🔭 I’m currently learning DSA and Web development
 - 🌱 I’m currently learning javascript
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 😄 Pronouns: He/Him
 -->
 ## Let's Connect 🤝
-- Email: Pranaysewatkar01@gmail.com
+- Email: pranaygithub01@gmail.com
 - Twitter: [@SewatkarPranay](https://twitter.com/PranaySewatkar)
 
 
