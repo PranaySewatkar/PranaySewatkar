@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning DSA and Web development
 - 🌱 I’m currently making HTML, CSS Projects
 ## Let's Connect 🤝
-- Email: pranaygithub01@gmail.com
+- Email: pranaystwt01@gmail.com
 - Twitter: [@SewatkarPranay](https://twitter.com/PranaySewatkar)
 
 
