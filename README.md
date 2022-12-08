@@ -2,11 +2,8 @@
 
 
 
-- 🔭 I’m currently learning DSA and Web development
-- 🌱 I’m currently making HTML, CSS Projects
-## Let's Connect 🤝
-- Email: pranaystwt01@gmail.com
-- Twitter: [@SewatkarPranay](https://twitter.com/PranaySewatkar)
+- I am on the challenge of #100DaysofWebDev and #100DaysofDSA
+- You can see my daily progress on github repository
 
 
 ## My Skills 💪
