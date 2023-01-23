@@ -2,8 +2,8 @@
 
 
 
-- I am on the challenge of #100DaysofWebDev and #100DaysofDSA
-- You can see my daily progress on github repository
+- I am on the track of learning Full stack web development 
+   And currently I am learning JavaScript. 
 
 
 ## My Skills 💪
